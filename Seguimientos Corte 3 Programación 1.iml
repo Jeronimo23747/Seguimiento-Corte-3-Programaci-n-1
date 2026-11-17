@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/n01-clases" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n02-encapsulamiento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n03-constructores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n04-herencia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n05-abstractas-interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n06-enum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n07-solid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n08-genericos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n09-crud" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n10-records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/n11-serializacion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reto-final-cafe-sintaxis" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
